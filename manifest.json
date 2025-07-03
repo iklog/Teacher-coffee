@@ -1,0 +1,31 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "__MSG_name__",
+  "version": "1.1",
+  "manifest_version": 3,
+  "description": "__MSG_description__",
+  "default_locale": "en",
+  "permissions": [
+    "power",
+    "storage"
+  ],
+  "storage": {
+    "managed_schema": "managed_storage.json"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "Icons/Activator-16x16.png",
+    "48": "Icons/Activator-48x48.png",
+    "128": "Icons/Activator-128x128.png"
+  },
+  "action": {
+    "default_icon": {              
+      "16": "Icons/Activator-16x16.png",   
+      "48": "Icons/Activator-48x48.png",   
+      "128": "Icons/Activator-128x128.png"
+    },
+    "default_title": "Din Chromebook går i dvale om 6-8 minutter.\nKlik én gang for kaffe(kort), to for kaffechok(lang), tre for dvale."   
+  }
+}

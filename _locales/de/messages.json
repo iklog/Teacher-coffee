@@ -1,0 +1,23 @@
+{ 
+    "name": {
+        "message": "Lehrerkaffee"
+    },
+    "description": {
+        "message": "Hält das Chromebook für bestimmte Zeit wach."
+    },
+    "sleepStateMsg1": {
+        "message": "Ihr Chromebook wechselt in 6 biss 8 Minuten in den Schlafmodus.Klicken Sie einmal für Kaffee("
+    },
+    "sleepStateMsg2": {
+        "message": "min),zwei mahl für Kaffeeschock("
+    },
+    "sleepStateMsg3": {
+        "message": "min),drei zum wieder Schlafen."
+    },
+    "keepAwake1": {
+        "message": "Ihr Chromebook bleibt "
+    },
+    "keepAwake2": {
+        "message": " Minuten lang wach."
+    }
+}

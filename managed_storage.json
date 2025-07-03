@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "awakeTime": {
+      "type": "integer",
+      "title": "Kaffe-tid (minutter)",
+      "description": "Antal minutter skærmen holdes vågen ved første klik.",
+      "default": 45
+    },
+    "coffeeChokTime": {
+      "type": "integer",
+      "title": "Kaffechok-tid (minutter)",
+      "description": "Antal minutter skærmen holdes vågen ved andet klik.",
+      "default": 90
+    }
+  }
+}

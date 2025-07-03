@@ -1,0 +1,23 @@
+{ 
+    "name": {
+        "message": "Teachers Coffee"
+    },
+    "description": {
+        "message": "Keeps the Chromebook awake for a period of time."
+    },
+    "sleepStateMsg1": {
+        "message": "Your Chromebook will go to sleep in 6-8 minutes.\nClick once for Coffee("
+    },
+    "sleepStateMsg2": {
+        "message": "min), twice for Coffee chok("
+    },
+    "sleepStateMsg3": {
+        "message": "min), thrice to cancel."
+    },
+    "keepAwake1": {
+        "message": " Your Chromebook will stay awake for "
+    },
+    "keepAwake2": {
+        "message": " minutes."
+    }
+}

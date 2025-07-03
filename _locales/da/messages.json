@@ -1,0 +1,23 @@
+{ 
+    "name": {
+        "message": "Lærerkaffe"
+    },
+    "description": {
+        "message": "Holder Chromebook vågen i perioder."
+    },
+    "sleepStateMsg1": {
+        "message": "Din Chromebook går i dvale om 6-8 minutter.\nKlik én gang for kaffe("
+    },
+    "sleepStateMsg2": {
+        "message": "min), to for kaffechok("
+    },
+    "sleepStateMsg3": {
+        "message": "min), tre for dvale."
+    },
+    "keepAwake1": {
+        "message": " Din Chromebook holdes vågen i "
+    },
+    "keepAwake2": {
+        "message": " minutter."
+    }
+}
