@@ -17,3 +17,6 @@ Giv din Chromebook en kop lærerkaffe.
     "awakeTime": 45,
     "coffeeChokTime": 90
 }
+
+Supported languages:
+Danish, English, German, Swedish
