@@ -82,3 +82,5 @@ chrome.storage.managed.get(['awakeTime', 'coffeeChokTime'], (policy) => {
   // Start applikationen med de korrekte værdier (enten default eller fra policy)
   initializeApp();
 });
+
+// Made by IKLOG
